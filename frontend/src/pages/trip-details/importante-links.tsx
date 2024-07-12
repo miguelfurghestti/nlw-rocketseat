@@ -13,7 +13,7 @@ export function ImportanteLinks() {
               https://www.airbnb.com.br/rooms/1047000111231231313123131
             </a>
           </div>
-          <Link2 className="text-zinc-400 shrink-0" size-5 />
+          <Link2 className="text-zinc-400 shrink-0 size-5" />
         </div>
 
         <div className="flex items-center justify-between gap-4">
@@ -26,7 +26,7 @@ export function ImportanteLinks() {
               https://www.airbnb.com.br/rooms/1047000111231231313123131
             </a>
           </div>
-          <Link2 className="text-zinc-400 shrink-0" size-5 />
+          <Link2 className="text-zinc-400 shrink-0 size-5" />
         </div>
       </div>
       <Button variant="secondary" size="full">
